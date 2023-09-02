@@ -25,11 +25,9 @@
 
 - Innovate India Coding Championship: All India Rank 62 🌟 outperforming 100,000+ participants.
 - Prime Time Coding Challenge: Outstanding Global Rank 3 🚀 in the January 2023 Prime Time Coding Challenge.
-- Spark2Code Hackathon: Esteemed prize winner for the innovative Human Library project. 
 - LeetCode Badge: Proud holder of the prestigious Knight badge.
 - LeetCode Weekly Contest 344: Secured an exceptional Global Rank 326 out of 19,000+ participants.
 - CodeChef Lunchtime 106: Attained an outstanding Global Rank 20 out of 6,000+ participants.
-- Coding Event: Title of Coding Bee in an intercollege coding event.
 
 ## Skills 💪
 
