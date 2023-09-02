@@ -1,10 +1,10 @@
 # Hi, I'm Jeyan S! 👋
 
-- 📚 Pursuing a Bachelor of Engineering in Computer Science and Engineering.
-- 💻 Proficient in Python, C++, Java, and JavaScript.
-- 🌐 Experienced in web development, including HTML, CSS, MERN, and REST API.
+🎓 Pursuing a Bachelor of Engineering in Computer Science and Engineering.
+🚀 Proficient in Python, C++, Java, and JavaScript.
+🌐 Experienced in web development with HTML, CSS, MERN, and REST API.
 
-## Coding Profiles
+## Coding Profiles 🏆
 
 - LeetCode: [jeyan_s](https://leetcode.com/jeyan_s) | Highest Rating: 2041 🛡️ | Knight level
 - CodeChef: [smartie_jack](https://codechef.com/users/smartie_jack) | Highest Rating: 2054 🌟
@@ -12,7 +12,7 @@
 - AtCoder: [Jack_01](https://atcoder.jp/users/Jack_01) | Highest Rating: 753 🏆
 - Coding Ninjas: [Jeyan_S](https://codingninjas.com/studio/profile/Jeyan_S) | Highest Rating: 2439 🌟
 
-## Projects
+## Projects 🚀
 
 - Know Ratings 📊 | [GitHub Link](https://github.com/jeyan-s/Know-Your-Ratings)
 - E-Commerce Website 🛒 | [GitHub Link](https://github.com/jeyan-s/BlueMoon-Ecommerce)
@@ -31,21 +31,21 @@
 
 ## Skills 💪
 
-- Programming languages: Python, C++, Java, JavaScript
-- Web Development: HTML, CSS, MERN, REST API
-- Databases: MySQL, MongoDB
-- Libraries and Frameworks: React JS, Express JS, Numpy, Pandas
-- Web Scraping: Beautifulsoup, Cheerio
-- Tools: Visual Studio Code, PyCharm, Github
-- Core concepts: Object-oriented programming, Data structures, Problem solving
+📝 Programming languages: Python, C++, Java, JavaScript
+🌐 Web Development: HTML, CSS, MERN, REST API
+📦 Databases: MySQL, MongoDB
+🛠️ Libraries and Frameworks: React JS, Express JS, Numpy, Pandas
+🕸️ Web Scraping: Beautifulsoup, Cheerio
+🔧 Tools: Visual Studio Code, PyCharm, Github
+🧠 Core concepts: Object-oriented programming, Data structures, Problem solving
 
 ## Contact Me 📫
 
-- 📧 Email: jeyannino001@gmail.com
-- 📞 Phone: +91 8870747903
-- 💼 LinkedIn: [jeyan-s-a35130229](https://linkedin.com/in/jeyan-s-a35130229)
-- 💻 GitHub: [jeyan-s](https://github.com/jeyan-s)
+📧 Email: jeyannino001@gmail.com
+📞 Phone: +91 8870747903
+💼 LinkedIn: [jeyan-s-a35130229](https://linkedin.com/in/jeyan-s-a35130229)
+💻 GitHub: [jeyan-s](https://github.com/jeyan-s)
 
 ## Fun Facts 😄
 
-- Space enthusiast 🚀🌌, avid fan of space exploration documentaries. Lost in the cosmos of YouTube, watching videos about galaxies, black holes, and aliens 👽🌠
+🚀 Space enthusiast: I'm an avid fan of space exploration documentaries. You can often find me lost in the cosmos of YouTube, watching videos about galaxies, black holes, and aliens 👽🌠
