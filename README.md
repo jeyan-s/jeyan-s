@@ -1,7 +1,9 @@
 # Hi, I'm Jeyan S! 👋
 
 🎓 Pursuing a Bachelor of Engineering in Computer Science and Engineering.
+
 🚀 Proficient in Python, C++, Java, and JavaScript.
+
 🌐 Experienced in web development with HTML, CSS, MERN, and REST API.
 
 ## Coding Profiles 🏆
