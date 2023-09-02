@@ -17,7 +17,7 @@
 ## Projects 🚀
 
 - Know Ratings 📊 | [GitHub Link](https://github.com/jeyan-s/Know-Your-Ratings)
-- E-Commerce Website 🛒 | [GitHub Link](https://github.com/jeyan-s/BlueMoon-Ecommerce)
+- E-Commerce Website 🛒 
 - Flappy Bird Game 🕹️ | [GitHub Link](https://github.com/jeyan-s/Flappy-Bird)
 - Tic Tac Toe Game ❌⭕ | [GitHub Link](https://github.com/jeyan-s/Tic-Tac-Toe)
 
