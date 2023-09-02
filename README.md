@@ -1,22 +1,17 @@
 # Hi, I'm Jeyan S! 👋
 
-I'm a Competitive Programmer and Software Engineer Intern based in Tiruppur, Tamil Nadu, India, with a passion for crafting ingenious solutions through computer science. I'm on a relentless quest to learn, adapt, and excel in the world of programming. My foundation in diverse languages and my aptitude for dissecting complex systems enable me to contribute to innovative, cutting-edge projects.
-
-- 📚 I'm currently pursuing a Bachelor of Engineering in Computer Science and Engineering at KPR Institute of Engineering and Technology, Coimbatore, India, with a CGPA of 8.1
+- 📚 I'm currently pursuing a Bachelor of Engineering in Computer Science and Engineering at KPR Institute of Engineering and Technology, Coimbatore, India
 - 💻 I'm proficient in multiple programming languages, including Python, C++, Java, and JavaScript.
-- 🌐 I have experience in web development, including HTML, CSS, MERN, responsive web designing, REST API, and HTTP requests.
-- 📊 I've worked with databases like MySQL and MongoDB, and I'm familiar with libraries and frameworks such as React JS, Express JS, Numpy, Pandas, and Collections.
+- 🌐 I have experience in web development, including HTML, CSS, MERN, REST API, and HTTP requests.
 - 🤖 I've dabbled in machine learning as an intern, achieving a remarkable 97% accuracy rate with a role-based resume checker.
 
 ## Coding Profiles
 
-- LeetCode: [Profile](https://leetcode.com/jeyan_s) | Highest Rating: 2041 | Knight level
-- CodeChef: [Profile](https://codechef.com/users/smartie_jack) | Highest Rating: 2054
-- Codeforces: [Profile](https://codeforces.com/profile/jeyan_s) | Highest Rating: 1401 | Specialist
-- AtCoder: [Profile](https://atcoder.jp/users/Jack_01) | Highest Rating: 753
-- PrepBytes: [Profile](https://mycode.prepbytes.com/profile/jeyannino001) | Highest Rating: 1695
-- Coding Ninjas: [Profile](https://codingninjas.com/studio/profile/Jeyan_S) | Highest Rating: 2439
-- Guvi: [Profile](https://guvi.in/jeyannino001) | Rank: 28
+- LeetCode: [jeyan_s](https://leetcode.com/jeyan_s) | Highest Rating: 2041 | Knight level
+- CodeChef: [smartie_jack](https://codechef.com/users/smartie_jack) | Highest Rating: 2054
+- Codeforces: [jeyan_S](https://codeforces.com/profile/jeyan_s) | Highest Rating: 1401 | Specialist
+- AtCoder: [Jack_01](https://atcoder.jp/users/Jack_01) | Highest Rating: 753
+- Coding Ninjas: [Jeyan_S](https://codingninjas.com/studio/profile/Jeyan_S) | Highest Rating: 2439
 
 ## Projects
 
@@ -36,14 +31,10 @@ Front-end developer for the Tic-Tac-Toe game that provides an interactive and en
 
 - Innovate India Coding Championship: All India Rank 62 outperforming 100,000+ participants.
 - Prime Time Coding Challenge: Outstanding Global Rank 3 in the January 2023 Prime Time Coding Challenge in PrepBytes. 
-- Prime Time Coding Challenge: Attained Global Rank 5 in the December 2022 Prime Time Coding Challenge in PrepBytes.
 - Spark2Code Hackathon: Esteemed prize winner for the innovative and impactful Human Library project. 
 - Leetcode Badge: Proud holder of the prestigious Knight badge in LeetCode. 
 - Leetcode Weekly Contest 344: Secured an exceptional Global Rank 326 out of 19000+ participants and an impressive All India Rank 29 reflecting coding competency.
-- CodeChef Lunchtime 106: Attained an outstanding Global Rank 20 out of 6000+ participants, showcasing exceptional competitive programming skills. 
-- CodeChef Starters 32: Exceptional Global Rank 56 out of 2000+ participants in CodeChef Starters 31, demonstrating strong coding proficiency.
-- CodeChef Starters 31: Remarkable Global Rank 39 out of 7000+ participants in CodeChef Starters 31, showcasing competitiveness in the contest. 
-- Coding Premier League: Runner of Intercollege coding event CPL.
+- CodeChef Lunchtime 106: Attained an outstanding Global Rank 20 out of 6000+ participants, showcasing exceptional competitive programming skills.
 - Coding Event: Title of Coding Bee in an intercollege coding event (Cash prize: 2500).
 - Intercollege coding events: Won awards including cash prizes in 7+ Intercollege coding events.
 
