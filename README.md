@@ -34,18 +34,27 @@
 ## Skills 💪
 
 📝 Programming languages: Python, C++, Java, JavaScript
+
 🌐 Web Development: HTML, CSS, MERN, REST API
+
 📦 Databases: MySQL, MongoDB
-🛠️ Libraries and Frameworks: React JS, Express JS, Numpy, Pandas
+
+🛠️ Libraries and Frameworks: React JS, Express JS
+
 🕸️ Web Scraping: Beautifulsoup, Cheerio
+
 🔧 Tools: Visual Studio Code, PyCharm, Github
+
 🧠 Core concepts: Object-oriented programming, Data structures, Problem solving
 
 ## Contact Me 📫
 
 📧 Email: jeyannino001@gmail.com
+
 📞 Phone: +91 8870747903
+
 💼 LinkedIn: [jeyan-s-a35130229](https://linkedin.com/in/jeyan-s-a35130229)
+
 💻 GitHub: [jeyan-s](https://github.com/jeyan-s)
 
 ## Fun Facts 😄
